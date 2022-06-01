@@ -1,0 +1,14 @@
+
+
+
+.container{
+	/*background-color: hsl(218, 44%, 22%);*/
+	width: 80%;
+	margin: 0 auto;
+	padding: 1%;
+	position: relative;
+}
+
+.qr{
+	width: 100%;
+}
